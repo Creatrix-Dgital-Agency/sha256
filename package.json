@@ -2,7 +2,7 @@
   "name": "@creatrix/sha256",
   "version": "0.0.1",
   "private":false,
-  "description": "Javacript Check the type of variable between string,function,boolean,object,array etc....",
+  "description": "convert any string to sha256",
   "contributors": [
     "Michel Mouallem <michel-mouallem@hotmail.com> (https://creatrix-lb.com)"
   ],
@@ -10,10 +10,10 @@
   "module": "./sha256.js",
   "repository": {
     "type": "git",
-    "url": "https://www.creatrix-lb.com/"
+    "url": "git://github.com/creatrixlb/sha256.git"
   },
   "author": "Creatrix Digital Agency <developers@creatrix-lb.com>",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "publishConfig": { "registry": "https://npm.pkg.github.com","access": "public","tag": "0.0.1" },
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
