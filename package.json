@@ -1,22 +1,14 @@
 {
   "name": "@creatrix/sha256",
   "version": "0.0.1",
-  "private":false,
-  "description": "convert any string to sha256",
-  "contributors": [
-    "Michel Mouallem <michel-mouallem@hotmail.com> (https://creatrix-lb.com)"
-  ],
-  "main": "./sha256.js",
-  "module": "./sha256.js",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/creatrixlb/sha256.git"
-  },
-  "author": "Creatrix Digital Agency <developers@creatrix-lb.com>",
-  "publishConfig": { "registry": "https://npm.pkg.github.com","access": "public","tag": "0.0.1" },
-  "license": "MIT",
+  "description": "convert any string to sha256 pure javascript",
+  "main": "sha256.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/creatrixlb/sha256.git"
   },
   "keywords": [
     "convert",
@@ -24,6 +16,13 @@
     "to",
     "sha256",
     "pure",
-    "javascript"
-  ]
+    "javascript",
+    "creatrix"
+  ],
+  "author": "Creatrix Digital Agency <developer@creatrix-lb.com> (https://creatrix-lb.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creatrixlb/sha256/issues"
+  },
+  "homepage": "https://github.com/creatrixlb/sha256#readme"
 }
