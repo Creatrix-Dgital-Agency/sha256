@@ -23,5 +23,5 @@ var sha256 = require("@creatrix/sha256")l
 ```
 const mystring=Sha256('teststring') 
 
-console.log(mystring) **//3c8727e019a42b444667a587b6001251becadabbb36bfed8087a92c18882d111**
+console.log(mystring) //3c8727e019a42b444667a587b6001251becadabbb36bfed8087a92c18882d111
 ```
