@@ -17,11 +17,11 @@ import Sha256 from @creatrix/sha256;
 
     or 
 
-var sha256 = require("@creatrix/sha256")l
+var sha256 = require("@creatrix/sha256");
 ```
 
 ```
-const mystring=Sha256('teststring') 
+const mystring=Sha256('teststring');
 
-console.log(mystring) //3c8727e019a42b444667a587b6001251becadabbb36bfed8087a92c18882d111
+console.log(mystring); //3c8727e019a42b444667a587b6001251becadabbb36bfed8087a92c18882d111
 ```
