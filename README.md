@@ -7,7 +7,7 @@ javascript convert string to sha256 pure javascript
 yarn add @creatrix/sha256
 
 or
-
+`single` 
 npm i @creatrix/sha256
 ```
 
