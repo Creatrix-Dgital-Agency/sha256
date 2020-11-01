@@ -17,7 +17,7 @@ import Sha256 from @creatrix/sha256;
 
     or 
 
-var sha256 = require("@creatrix/sha256");
+var Sha256 = require("@creatrix/sha256");
 ```
 
 ```
